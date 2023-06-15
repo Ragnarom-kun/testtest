@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- login strings -->
+
+	<string name="app_name">Upload Photo</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="login_ek3_string">Login</string>
+	<string name="allopet_string">AlloPet</string>
+	<string name="or_string">or</string>
+	<string name="don_t_have_an_account_yet__sign_up_string">Dont have an account yet? Sign Up</string>
+	<string name="enter_your_email_string">Enter your email</string>
+	<string name="password_string">Password </string>
+
+</resources>

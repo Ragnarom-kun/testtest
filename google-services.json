@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871593420813",
+    "project_id": "c23-pr490",
+    "storage_bucket": "c23-pr490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871593420813:android:93f8982756a63c71e00d44",
+        "android_client_info": {
+          "package_name": "com.app.allopet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871593420813-5ej04ih1q64mokfhejk2mqlj6lts4ifb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADwH3VSmvQc1OAQ5WZbsyliSQkC6Q5NuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871593420813-5ej04ih1q64mokfhejk2mqlj6lts4ifb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
